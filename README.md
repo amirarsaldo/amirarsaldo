@@ -7,7 +7,15 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm AmirArsal</h1>
+<p align="center">
+<a href="https://x.com/Amirarsaloffic1">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
+<a href="https://github.com/amirarsaldo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 <h3 align="center">
 AI Agent Developer • Content Creator • Community Builder
 </h3>
