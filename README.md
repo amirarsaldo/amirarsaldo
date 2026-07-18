@@ -49,6 +49,14 @@ Building AI • Web3 • Gaming • Music • Trading
   <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-8A2BE2?style=for-the-badge" />
 </p>
+## 🚀 Current Focus
+
+- 🤖 Building AI Agents
+- ⛓️ Exploring the Base Ecosystem
+- 🎥 Creating AI Videos
+- 🌍 Growing Web3 Communities
+- 🎵 Producing Music
+- 📈 Researching Crypto & Airdrops
 ## 🌐 Connect with Me
 
 - X: https://x.com/Amirarsaloffic1
