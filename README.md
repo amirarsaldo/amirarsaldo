@@ -1,52 +1,4 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner"/>
-</p>
-
-<h1 align="center">Hi 👋 I'm AmirArsal</h1>
-
-<h3 align="center">
-AI Agent Developer • Content Creator • Community Builder
-</h3>
-
-<p align="center">
-Building AI Agents • Web3 • Trading • Gaming • Music
-</p>
-
-<p align="center">
-
-<a href="https://x.com/Amirarsaloffic1">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🚀 About Me
-
-- 🤖 AI Agent Developer
-- 🎥 AI Video Creator
-- 🌐 Web3 Builder
-- 👥 Community Builder
-- 🎵 Music Producer & Singer
-- 🎮 Gamer
-- 🎁 Airdrop Hunter
-- 📈 Crypto Trader
-
----
-
-## 💻 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<p align="center">
   <img src="./assets/banner.png" width="100%" alt="Banner"/>
 </p>
 
@@ -57,19 +9,28 @@ Building AI Agents • Web3 • Trading • Gaming • Music
 <h1 align="center">Hi 👋 I'm AmirArsal</h1>
 
 <h3 align="center">
-Content Creator • Community Builder • AI Video Creator
+AI Agent Developer • Content Creator • Community Builder
 </h3>
 
 <p align="center">
-Building AI • Web3 • Music • Gaming • Trading
+Building AI • Web3 • Gaming • Music • Trading
 </p>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+---
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+## 🚀 About Me
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+- 🤖 AI Agent Developer
+- 🎥 AI Video Creator
+- 👥 Community Builder
+- 🌐 Web3 Enthusiast
+- 🎮 Gamer
+- 🎵 Music Producer & Singer
+- 📈 Crypto Trader
+- 🎁 Airdrop Hunter
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+---
 
-</p>
+## 🌐 Connect with Me
+
+- X: https://x.com/Amirarsaloffic1
