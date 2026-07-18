@@ -38,7 +38,17 @@ Building AI • Web3 • Gaming • Music • Trading
 - 🎁 Airdrop Hunter
 
 ---
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,git,vscode,linux,docker,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-8A2BE2?style=for-the-badge" />
+</p>
 ## 🌐 Connect with Me
 
 - X: https://x.com/Amirarsaloffic1
