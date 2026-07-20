@@ -63,5 +63,12 @@ Building AI • Web3 • Gaming • Music • Trading
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amirarsaldo&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirarsaldo&layout=compact&theme=tokyonight&hide_border=true"/>
+  ---
+
+# 🍄 GitHub Mario Engine
+
+<p align="center">
+  <img src="./assets/mario.svg" width="100%" alt="GitHub Mario Engine"/>
+</p>
 </p>
 - X: https://x.com/Amirarsaloffic1
